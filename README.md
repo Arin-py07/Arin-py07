@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arin-py07
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django
+- Here you can find various types of problems solution sing python.
 
 
 <!---
